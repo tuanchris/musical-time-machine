@@ -1,5 +1,7 @@
 # Time travel with Spotify Music
 
+![Illustration](media/2020-12-01-11-33-43.png)
+
 Find songs on the top 100 Billboard chart on any date, search those songs on Spotify, and create a personalize playlist.
 
 ## Instructions
@@ -44,5 +46,7 @@ SPOTIPY_REDIRECT_URI='http://example.com'
 ```bash
 python main.py
 ```
+
+![Terminal](media/2020-12-01-11-35-16.png)
 
 Enjoy the music :)
